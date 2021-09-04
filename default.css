@@ -1,0 +1,26 @@
+
+body {
+    margin: 0;
+    text-align: center;
+    color: darkslategray;
+    background-color: lightsteelblue;
+    font-family: sans-serif;
+}
+h1 {
+    color: maroon;
+    font-family: serif;
+    padding-top: 4em;
+}
+h4 {
+    font-family: serif;
+    padding-top: 2em;
+}
+ul.contact {
+    list-style-type: none;
+}
+div.outer {
+    margin: auto;
+    text-align: left;
+    width: 500px;
+    padding: 5px;
+}
