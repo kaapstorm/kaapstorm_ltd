@@ -11,13 +11,6 @@ h1 {
     font-family: serif;
     padding-top: 4em;
 }
-h4 {
-    font-family: serif;
-    padding-top: 2em;
-}
-ul.contact {
-    list-style-type: none;
-}
 div.outer {
     margin: auto;
     text-align: left;
